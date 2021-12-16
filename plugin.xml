@@ -1,0 +1,9 @@
+<library path="lib/libioc_cgt">
+  <class name="cnr/control/IocCgt"
+         type="cnr::control::IocCgt"
+         base_class_type="controller_interface::ControllerBase">
+    <description>
+      The IocCgt controller
+    </description>
+  </class>
+</library>
